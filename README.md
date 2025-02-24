@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é João Gabriel, sou atualmente estudande.</p>
+<p align="left">Meu nome é João Gabriel, sou atualmente estudante.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente curso ANALISE E DESENVOLVIMENTO DE SISTEMAS na FIAP</p>
+<p align="left">📚 Atualmente curso Analise e Desenvolvimento de Sistemas na FIAP</p>
 
 ###
 
