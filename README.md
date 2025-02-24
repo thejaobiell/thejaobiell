@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criado programas desde 2024<br>📚 Atualmente curso ANALISE E DESENVOLVIMENTO DE SISTEMAS na FIAP</p>
+<p align="left">📚 Atualmente curso ANALISE E DESENVOLVIMENTO DE SISTEMAS na FIAP</p>
 
 ###
 
