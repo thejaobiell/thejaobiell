@@ -1,38 +1,22 @@
-<h1 align="left">Como vai meu consagrado?👋</h1>
+<h1 align="center">Olá 👋, Eu sou o João Gabriel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" /> </p>
 
 ###
 
-<p align="left">Meu nome é João Gabriel, sou atualmente estudante.</p>
+<p align="left"> <a href="https://twitter.com/thejaobiel" target="blank"><img src="https://img.shields.io/twitter/follow/thejaobiel?logo=twitter&style=for-the-badge" alt="thejaobiel" /></a> </p>
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thejaobiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaobiel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-gabriel-boaventura-marques-e-silva-93b67b323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-gabriel-boaventura-marques-e-silva-93b67b323" height="30" width="40" /></a>
+</p>
 
-<h2 align="left">Sobre mim:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejaobiell&theme=dark" alt="thejaobiell" /></p>
 
-<p align="left">📚 Atualmente curso Analise e Desenvolvimento de Sistemas na FIAP</p>
 
-###
-
-<h2 align="left">Eu programa em:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
 
 ###
 
