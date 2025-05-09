@@ -18,7 +18,7 @@
   <a href="https://twitter.com/thejaobiel" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaobiel" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/joão-gabriel-boaventura-marques-e-silva-93b67b323" target="_blank">
+  <a href="https://br.linkedin.com/in/jo%C3%A3o-gabriel-b-93b67b323" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn João Gabriel" height="30" width="40" />
   </a>
 </p>
