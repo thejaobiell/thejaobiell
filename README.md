@@ -4,20 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/thejaobiel" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/thejaobiel?logo=twitter&style=for-the-badge" alt="thejaobiel" />
-  </a>
-</p>
-
 ---
 
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
-  <a href="https://twitter.com/thejaobiel" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thejaobiel" height="30" width="40" />
-  </a>
   <a href="https://br.linkedin.com/in/jo%C3%A3o-gabriel-b-93b67b323" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn João Gabriel" height="30" width="40" />
   </a>
