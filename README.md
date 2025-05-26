@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o João Gabriel</h1>
+![Header](./banner.png)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
