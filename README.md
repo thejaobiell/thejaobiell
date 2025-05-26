@@ -13,7 +13,7 @@
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joão-gabriel-b-93b67b323" target="_blank" rel="noopener noreferrer">
+  <a href="https:/https://www.linkedin.com/in/joao-gabriel-b-93b67b323/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn João Gabriel" height="30" width="40" />
   </a>
 </p>
