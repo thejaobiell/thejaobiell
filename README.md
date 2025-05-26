@@ -1,4 +1,6 @@
 ![Header](./banner.png)
+- 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 👨‍💻 Em busca da primeira oportunidade de emprego na área de tecnologia
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
