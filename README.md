@@ -83,3 +83,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jbiel2005&count=5" alt="Spotify recently played" />
   </a>
 </div>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaobiell" alt="thejaobiell" /></a> </p>
