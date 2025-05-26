@@ -13,20 +13,20 @@
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
-  <a href="https://br.linkedin.com/in/jo%C3%A3o-gabriel-b-93b67b323" target="_blank">
+  <a href="www.linkedin.com/in/joão-gabriel-b-93b67b323" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn João Gabriel" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Linguagens que eu PROGRAMO:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -83,7 +83,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jbiel2005&count=5" alt="Spotify recently played" />
   </a>
 </div>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaobiell" alt="thejaobiell" /></a> </p>
