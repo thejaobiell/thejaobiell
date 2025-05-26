@@ -1,11 +1,13 @@
 ![Header](./banner.png)
-- 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 👨‍💻 Em busca da primeira oportunidade de emprego na área de tecnologia
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
 </p>
 
+## Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2024 -> 2025)
+- 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia
 ---
 
 ### 🌐 Conecte-se comigo:
