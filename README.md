@@ -1,13 +1,19 @@
 ![Header](./banner.png)
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=900&size=23&pause=1000&color=900194&center=true&multiline=true&width=435&height=40&lines=Welcome+DEV" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
 </p>
 
 ## Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2024 -> 2025)
-- 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2024 → 2025)  
+- 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia  
 ---
 
 ### 🌐 Conecte-se comigo:
