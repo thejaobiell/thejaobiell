@@ -10,20 +10,26 @@
   <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Profile%20views&color=0e75b6&style=flat" alt="thejaobiell" />
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/thejaobiel/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Thejaobiel" />
+  </a>
+  <a href="https://x.com/thejaobiel">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/joao-gabriel-b-93b67b323/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jbiel2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2024 → 2025)  
 - 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia  
----
-
-### 🌐 Conecte-se comigo:
-
-<p align="left">
-  <a href="https:/https://www.linkedin.com/in/joao-gabriel-b-93b67b323/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn João Gabriel" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Linguagens que eu PROGRAMO:
