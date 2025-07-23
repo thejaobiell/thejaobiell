@@ -28,7 +28,8 @@
 
 ## Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2024 → 2025)  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 💻 Desenvolvedor Full Stack
 - 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia  
 ---
 
