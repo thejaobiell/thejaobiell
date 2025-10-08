@@ -11,12 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/thejaobiel/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Thejaobiel" />
-  </a>
-  <a href="https://x.com/thejaobiel">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white" alt="X (Twitter)" />
-  </a>
   <a href="https://www.linkedin.com/in/joao-gabriel-b-93b67b323/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
