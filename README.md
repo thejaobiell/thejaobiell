@@ -27,7 +27,7 @@
 - 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia  
 ---
 
-### 🛠️ Linguagens que eu trabalho:
+### Linguagens que eu trabalho:
 <p align="center">
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
@@ -57,15 +57,14 @@
 
 ---
 
-### 🔥 Estatísticas do GitHub:
+### MINHAS Estatísticas do GitHub:
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thejaobiell&theme=shadow-purple&border_radius=15&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thejaobiell&theme=catppuccin-macchiato&hide_border=true&border_radius=30&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejaobiell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaobiell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejaobiell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaobiell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
 
 ---
