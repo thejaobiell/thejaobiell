@@ -27,9 +27,9 @@
 
 ## Sobre mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP
 - 💻 Desenvolvedor Full Stack
-- 👨‍💻 Em busca da primeira oportunidade profissional na área de tecnologia  
+- 👨‍💻 Irei cursar Engenharia de Software
 ---
 
 ### 💻 Stack Tecnológica
