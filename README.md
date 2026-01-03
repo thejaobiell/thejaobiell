@@ -28,8 +28,8 @@
 ## Sobre mim
 
 - 🎓 Formado em ADS(Análise e Desenvolvimento de Sistemas) na FIAP
-- 💻 Desenvolvedor Back-End
 - 👨‍💻 Cursando Engenharia de Software na FIAP
+- 💻 Desenvolvedor Back-End
 ---
 
 ### 💻 Stack Tecnológica
