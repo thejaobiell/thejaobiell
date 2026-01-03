@@ -27,9 +27,9 @@
 
 ## Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP
-- 💻 Desenvolvedor Full Stack
-- 👨‍💻 Irei cursar Engenharia de Software
+- 🎓 Formado em ADS(Análise e Desenvolvimento de Sistemas) na FIAP
+- 💻 Desenvolvedor Back-End
+- 👨‍💻 Cursando Engenharia de Software na FIAP
 ---
 
 ### 💻 Stack Tecnológica
@@ -49,13 +49,13 @@ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 </div>
 
 ---
 
-### MINHAS Estatísticas do GitHub:
+### Minhas Estatísticas do GitHub:
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thejaobiell&theme=catppuccin-macchiato&hide_border=true&border_radius=30&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
