@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./github-header-banner.png)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -6,11 +6,10 @@
   </a>
 </div>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Visualiza%C3%A7%C3%B5es&color=9D4EDD&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Visualizações&color=9D4EDD&style=for-the-badge" alt="Profile views" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-gabriel-b-93b67b323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,57 +21,85 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
-</div>
-</p>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Formado em ADS(Análise e Desenvolvimento de Sistemas) na FIAP
-- 👨‍💻 Cursando Engenharia de Software na FIAP
-- 💻 Desenvolvedor Back-End
+Desenvolvedor Backend apaixonado por criar soluções escaláveis e eficientes. Focado em arquitetura de software e boas práticas de desenvolvimento.
+
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela FIAP
+- 📚 Cursando **Engenharia de Software** na FIAP
+- 💼 Especializado em desenvolvimento **Backend** com Java e Spring Boot
+- 🔧 Experiência com arquiteturas **RESTful**
+
 ---
 
-### 💻 Stack Tecnológica
+## 🛠️ Stack Tecnológica
+
 <div align="center">
-Backend
+
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
 </p>
-Frontend
+
+### Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-Cloud & DevOps
+
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
+### Ferramentas & Ambiente
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
 </div>
 
 ---
 
-### Minhas Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thejaobiell&theme=catppuccin-macchiato&hide_border=true&border_radius=30&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejaobiell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaobiell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thejaobiell&theme=catppuccin-macchiato&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="500"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thejaobiell&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha&locale=pt_BR" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaobiell&layout=compact&hide_border=true&theme=catppuccin_mocha&locale=pt_BR&langs_count=6" height="170" alt="Top Languages" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaobiell&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-
 ---
 
-### 🎧 Últimas músicas que ouvi no Spotify:
+## 🎵 Ouvindo agora no Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/jbiel2005" target="_blank">
