@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend apaixonado por criar soluções escaláveis e eficientes. Focado em arquitetura de software e boas práticas de desenvolvimento.
+Desenvolvedor Backend especializado em **Java** e **Spring Boot**, apaixonado por criar APIs robustas e escaláveis.
 
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela FIAP
 - 📚 Cursando **Engenharia de Software** na FIAP
