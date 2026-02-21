@@ -29,7 +29,6 @@ Desenvolvedor Backend especializado em **Java** e **Spring Boot**, apaixonado po
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela FIAP
 - 📚 Cursando **Engenharia de Software** na FIAP
 - 💼 Especializado em desenvolvimento **Backend** com Java e Spring Boot
-- 🔧 Experiência com arquiteturas **RESTful**
 
 ---
 
