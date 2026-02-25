@@ -1,13 +1,13 @@
-![Header](./github-header-banner.png)
+![Header](./bannero.png)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&letterSpacing=0.5rem&pause=1000&color=9E00F7&center=true&vCenter=true&random=true&width=450&height=75&lines=Welcome+Dev!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&letterSpacing=0.5rem&pause=1000&color=b74b4b&center=true&vCenter=true&random=true&width=450&height=75&lines=Welcome+Dev!" alt="Typing SVG" /></a>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Visualizações&color=9D4EDD&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thejaobiell&label=Visualizações&color=b74b4b&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
