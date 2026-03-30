@@ -101,13 +101,3 @@ Desenvolvedor Backend especializado em **Java** e **Spring Boot**, focado na con
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaobiell&theme=react-dark&hide_border=true&area=true&color=b74b4b&line=b74b4b&point=b74b4b"/>
 
 </div>
-
----
-
-## 🎵 Spotify
-
-<div align="center">
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jbiel2005&count=5&unique=true"/>
-
-</div>
