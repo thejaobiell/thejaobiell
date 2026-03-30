@@ -97,11 +97,6 @@ Desenvolvedor Backend especializado em **Java** e **Spring Boot**, focado na con
   <img src="https://streak-stats.demolab.com?user=thejaobiell&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&ring=b74b4b&fire=b74b4b&currStreakLabel=b74b4b&sideLabels=b74b4b&dates=b74b4b" width="500"/>
 
   <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=thejaobiell&show_icons=true&theme=dark&title_color=b74b4b&text_color=b74b4b&icon_color=b74b4b&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaobiell&layout=compact&theme=dark&title_color=b74b4b&text_color=b74b4b&icon_color=b74b4b&bg_color=00000000"/>
-
-  <br><br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaobiell&theme=react-dark&hide_border=true&area=true&color=b74b4b&line=b74b4b&point=b74b4b"/>
 
